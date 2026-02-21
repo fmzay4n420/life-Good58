@@ -1,0 +1,8 @@
+{
+  "name": "Life Good",
+  "description": "A student-centric digital platform for earning through referrals and activities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
